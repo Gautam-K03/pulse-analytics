@@ -2,7 +2,7 @@
 
 > Multi-tenant SaaS analytics platform with natural-language querying, live updates, and AI-generated insights.
 
-**Live demo:** https://pulse-analytics-<yourname>.vercel.app
+**Live demo:**  https://pulse-analytics-topaz.vercel.app/
 **Stack:** React 18 · TypeScript · Vite · Tailwind CSS · Recharts · TanStack Query · Zustand
 
 ![Pulse dashboard screenshot](./docs/screenshot.png)
@@ -23,7 +23,7 @@
 ## Run locally
 
 \`\`\`bash
-git clone https://github.com/<you>/pulse-analytics.git
+git clone https://github.com/Gautam-K03/pulse-analytics.git
 cd pulse-analytics
 npm install
 npm run dev
